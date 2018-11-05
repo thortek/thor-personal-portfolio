@@ -1,0 +1,9 @@
+div {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+figcaption { 
+    text-align: center;
+    font-size: 1.5em;
+}
